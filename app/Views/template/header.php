@@ -133,7 +133,7 @@
                     <div class="col-lg-12">
                         <nav class="main-menu navbar navbar-expand-lg navbar-light">
                             <a class="navbar-brand" href="index.html">
-                                <img src="img/logo.jpg" alt="Logo" />
+                                <img style="height: 30px; width : 60px" src="img/logo.jpg" alt="Logo" />
                             </a>
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#menucontent" aria-controls="menucontent" aria-expanded="false">
                                 <span class="navbar-toggler-icon"></span>
